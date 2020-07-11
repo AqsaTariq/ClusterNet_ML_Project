@@ -77,3 +77,6 @@ The Dockerfile in the main directory builds the environment that was used to run
 * sklearn (tested on version 0.21.3)
 * numpy (tested on version 1.16.5)
 * torch_geometric
+
+## Authors
+M. Zaid, S. Sadiq, Aqsa T., Zoya N., Fatima F.
